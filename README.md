@@ -1,4 +1,4 @@
-### Kim sejin 🐇
+### <center>Kim sejin 🐇<center>
 
 <!--
 **ksj051203/ksj051203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
