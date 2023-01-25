@@ -26,8 +26,10 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/react native-61DAFB?style=for-the-badge&logo=reactnative&logoColor=white">
+  <img src="https://img.shields.io/badge/react native-61DAFB?style=for-the-badge&logo=react&logoColor=white">
+ 
   
+  ![Sejin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksj051203&show_icons=true&theme=radical)
 </div>
 
   
