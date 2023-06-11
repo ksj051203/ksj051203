@@ -3,7 +3,7 @@
 
 <h3 align="center">👩🏻‍💻 About Me 👩🏻‍💻</h3>
 <p align="center">
-  <a href="https://www.notion.so/Portfolio-1608cd13bd264d22bbfdba2f65c3ad72?pvs=4"><img src="https://img.shields.io/badge/Portflio-13AFF0?style=flat-square&logo=Vimeo&logoColor=white&link=http://www.notion.so/Portfolio-1608cd13bd264d22bbfdba2f65c3ad72?pvs=4"/></a>&nbsp
+  <a href="https://www.notion.so/Portfolio-1608cd13bd264d22bbfdba2f65c3ad72?pvs=4"><img src="https://img.shields.io/badge/Portfolio-FFDD00?style=flat-square&logo=Vimeo&logoColor=white&link=http://www.notion.so/Portfolio-1608cd13bd264d22bbfdba2f65c3ad72?pvs=4"/></a>&nbsp
   <a href="https://www.instagram.com/s_ziny_0/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/s_ziny_0/"/></a>&nbsp
   <a href="mailto:ksj054703@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=ksj0547030@gmail.com"/></a>
 </p>
