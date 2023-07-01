@@ -3,7 +3,7 @@
 
 <h3 align="center">👩🏻‍💻 About Me 👩🏻‍💻</h3>
 <p align="center">
-  포트폴리오(<a href="https://www.notion.so/Portfolio-1608cd13bd264d22bbfdba2f65c3ad72?pvs=4">Click Me</a>)&nbsp
+  포트폴리오(<a href="https://www.notion.so/Portfolio-24e77aa84d3e451484f66a6e79c916e8?pvs=4">Click Me</a>)&nbsp
 </p>
 
 <div align=center> 
