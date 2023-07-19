@@ -1,12 +1,11 @@
 ### 
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Kimsejin&fontSize=90)
 
-/*
-<h3 align="center">👩🏻‍💻 About Me 👩🏻‍💻</h3>
-<p align="center">
-  포트폴리오(<a href="https://www.notion.so/Portfolio-24e77aa84d3e451484f66a6e79c916e8?pvs=4">Click Me</a>)&nbsp
-</p>
-*/
+
+<!--<h3 align="center">👩🏻‍💻 About Me 👩🏻‍💻</h3>
+  <p align="center">
+    포트폴리오(<a href="https://www.notion.so/Portfolio-24e77aa84d3e451484f66a6e79c916e8?pvs=4">Click Me</a>)&nbsp
+  </p>  -->
 
 <div align=center> 
    <h3>📖 Tech Stack 📖</h3>
